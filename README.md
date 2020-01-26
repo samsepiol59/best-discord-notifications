@@ -21,11 +21,8 @@ To get the script ready, just download the folder to your server, store it in a 
 
 ------------
 
-GRAB ADMIN EXAMPLE
 ![Example of a notification](https://i.imgur.com/9UaDzjV.png "Example of a grab admin notification")
 
-GRAB USERS EXAMPLE
 ![Example of a notification](https://i.imgur.com/OoaM43x.png "Example of a grab users notification")
 
-DOWNLOAD NOTIFICATION EXAMPLE
 ![Example of a notification](https://i.imgur.com/i9IJCir.png "Example of a download notification")
