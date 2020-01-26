@@ -1,5 +1,5 @@
 # best-discord-notifications
-Fancy Discord notifications for Radarr and Sonarr (bash) - **a special thanks goes to Jose, for the base code and helping with the final touches!**
+Fancy Discord notifications for Radarr and Sonarr (bash) - **a special thanks goes to JoseP, for the base code and helping with the final touches!**
 > P.S. Only Radarr download notification is available at the moment
 
 ------------
