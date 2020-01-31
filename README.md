@@ -1,10 +1,9 @@
 # best-discord-notifications
 Fancy Discord notifications for Radarr and Sonarr (bash) - **a special thanks goes to JoseP, for the base code and helping with the final touches!**
-> P.S. Only Radarr notifications are available at the moment
 
 ------------
 
-These are separate notifications for Grab and Download/Upgrade events in Radarr, so you need to set options accordingly in Settings > Connect.
+These are separate notifications for Grab and Download/Upgrade events in Radarr, while only Downloa/Upgrade events in Sonarr, so you need to set options accordingly in Settings > Connect.
 
 To set up these notification you will need:
 1. TMDb (The Movie DataBase) API Key (free)
@@ -21,8 +20,14 @@ To get the script ready, just download the folder to your server, store it in a 
 
 ------------
 
-![Example of a notification](https://i.imgur.com/9UaDzjV.png "Example of a grab admin notification")
+![Example of a notification](https://i.imgur.com/sMdsDSs.png "Example of a radarr grab admin notification")
 
-![Example of a notification](https://i.imgur.com/OoaM43x.png "Example of a grab users notification")
+![Example of a notification](https://i.imgur.com/9yI2pGP.png "Example of a radarr grab users notification")
 
-![Example of a notification](https://i.imgur.com/i9IJCir.png "Example of a download notification")
+![Example of a notification](https://i.imgur.com/lDwrhK2.png "Example of a radarr download admin notification")
+
+![Example of a notification](https://i.imgur.com/oyHOyWG.png "Example of a radarr download users notification")
+
+![Example of a notification](https://i.imgur.com/QcKu4eq.png "Example of a sonarr download admin notification")
+
+![Example of a notification](https://i.imgur.com/NcnZoxG.png "Example of a sonarr download users notification")
