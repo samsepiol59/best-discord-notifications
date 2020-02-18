@@ -17,7 +17,7 @@ else
 fi
 
 # Set Discord webhook url - leave the quotes around
-webhook_eb="yourDISCORDwebhookURL"
+webhook="yourDISCORDwebhookURL"
 
 # Set author name and icon image - leave the quotes arund
 author_name="A new episode was just downloaded!"
